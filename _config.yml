@@ -1,0 +1,27 @@
+title: "Light's Ramblings"
+description: "Fansubbing, encoding, and other random stuff."
+lang: en
+timezone: Europe/Amsterdam
+
+permalink: /:categories/:title/
+
+url: "https://lightarrowsexe.github.io"
+baseurl: "/blog"
+
+remote_theme: vfvong/jekyll-theme-tao
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+paginate: 5
+paginate_path: "/page:num/"
+
+author:
+  name: "LightArrowsEXE"
+
+categories_path: /categories/
+tags_path: /tags/

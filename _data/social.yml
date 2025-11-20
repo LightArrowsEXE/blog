@@ -1,0 +1,19 @@
+- title: Email
+  url: mailto:lightarrowsreboot@gmail.com
+  icon: fas fa-envelope
+
+- title: GitHub
+  url: https://github.com/LightArrowsEXE
+  icon: fab fa-github
+
+- title: Bluesky
+  url: https://bsky.app/profile/lightarrowsexe.fansubcar.tel
+  icon: fab fa-bluesky
+
+- title: Nyaa
+  url: https://nyaa.si/user/Kaleido-subs
+  icon: fas fa-magnet
+
+- title: Discord
+  url: https://discord.com/servers/stalleido-subs-443264565069742080
+  icon: fab fa-discord
